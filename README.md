@@ -1,6 +1,7 @@
 # MACNN_tensorflow
 TensorFlow-based implementation of "Multi-stage Attention Convolutional Neural Networks for HEVC In-Loop Filtering" by Peng-Ren,Lai
 
+Use https://nbviewer.jupyter.org to view the Jupyter notebook
 
 # Architecture
 The architecture of our MACNN is illustrated below. Green denotes our revised inception block, yellow denotes self-attention block, ⊕ denotes element-wise addition, and ⊗ denotes concatenation.
