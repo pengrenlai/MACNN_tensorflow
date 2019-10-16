@@ -22,7 +22,7 @@ CPIH-Intra database proposed by “A Deep Convolutional Neural Network Approach 
 
 ### Training
 
-The inputs and ground truths are cropped into 64x64 non-overlapping image patches. Only the luminance channel is considered for training, totally 301,248 training examples were used. We use Adam [22] optimizer with β1=0.9, β2=0.999, and ε=10-8 to train our model. The batch size is 16. The hyper-parameter setting is that α=0.3, β=0.3, and λ = {0.15, 0.15, 0.2, 0.25, 0.25}.
+The inputs and ground truths are cropped into 64x64 non-overlapping image patches. Only the luminance channel is considered for training, totally 301,248 training examples were used. We use Adam optimizer with β1=0.9, β2=0.999, and ε=10-8 to train our model. The batch size is 16. The hyper-parameter setting is that α=0.3, β=0.3, and λ = {0.15, 0.15, 0.2, 0.25, 0.25}.
 
 ### Testing
 
