@@ -1,5 +1,5 @@
 # MACNN_tensorflow
-TensorFlow-based implementation of "Multi-stage Attention Convolutional Neural Networks for HEVC In-Loop Filtering" by Peng-Ren,Lai
+TensorFlow-based implementation of "Multi-stage Attention Convolutional Neural Networks for HEVC In-Loop Filtering" (AICAS 2020)
 
 Use https://nbviewer.jupyter.org to view the Jupyter notebook
 
